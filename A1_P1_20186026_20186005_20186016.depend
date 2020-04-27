@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584297982 source:c:\users\dell\desktop\assingment 3\a1_20186026_20186005_20186016\a1_p1_20186026_20186005_20186016\main.cpp
+	<string>
+	<iostream>
+	<BigDecimalInt.h>
+
+1584298068 c:\users\dell\desktop\assingment 3\a1_20186026_20186005_20186016\a1_p1_20186026_20186005_20186016\include\bigdecimalint.h
+	<string>
+	<iostream>
+
+1586614997 source:c:\users\dell\desktop\assingment 3\a1_20186026_20186005_20186016\a1_p1_20186026_20186005_20186016\src\bigdecimalint.cpp
+	"BigDecimalInt.h"
+
